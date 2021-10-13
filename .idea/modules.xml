@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/checkcode/checkcode.iml" filepath="$PROJECT_DIR$/checkcode/checkcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_case/day17_case.iml" filepath="$PROJECT_DIR$/day17_case/day17_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htmlCssJs/htmlCssJs.iml" filepath="$PROJECT_DIR$/htmlCssJs/htmlCssJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginCase/loginCase.iml" filepath="$PROJECT_DIR$/loginCase/loginCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm.iml" filepath="$PROJECT_DIR$/ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+    </modules>
+  </component>
+</project>
